@@ -155,24 +155,24 @@ Il VDF e' un apparato cghe consente all'operatore di torre di individuare con pr
 
 ---
 
-Sulle testate delle piste pavimentate e' disegnato un numero a due cifre che indica l'orientamento magnetico della pista espresso in decine di gradi, eseguite le approssimazioni.
+Sulle testate delle piste pavimentate e' disegnato un **numero a due cifre** che indica l'orientamento magnetico della pista espresso in decine di gradi, eseguite le approssimazioni.
 
-Un pannello rosso con diagonali gialle posto nel quadrato segnali significa che l'atterraggio e' proibito.
+Un **pannello rosso con diagonali gialle** posto nel quadrato segnali significa che l'atterraggio e' proibito.
 
-Ua croce bianca posta all'inizio di una pista o di una via di rullaggio significa che non sono utilizzabili.
+Ua **croce bianca** posta all'inizio di una pista o di una via di rullaggio significa che non sono utilizzabili.
 
-Una croce gialla dipinta sulla superficie all'incrocio tra una via di rullaggio e delle taxiway, indica che le taxiway sono chiuse e quindi non idonee al movimento dei velivoli.
+Una **croce gialla** dipinta sulla superficie all'incrocio tra una via di rullaggio e delle taxiway, indica che le taxiway sono chiuse e quindi non idonee al movimento dei velivoli.
 
-Un pannello quadrato di colore giallo, con al centro una lettera C di colore nero, posto su un edificio aeroportuale, indica che sull'aeroporto e' istituito un ARO (Air Traffic services Reporting Office) e ne indica l'ubicazione.
+Un **pannello quadrato di colore giallo, con al centro una lettera C** di colore nero, posto su un edificio aeroportuale, indica che sull'aeroporto e' istituito un ARO (Air Traffic services Reporting Office) e ne indica l'ubicazione.
 
-Quando un ostacolo nell'aerea aeroportuale presenta una superficie essenzialmente ininterrotta, la cui proiezione su un piano verticale, supera i 4.5m (15ft), deve essere segnalato con colorazione a scacchi o a bande verticali od orizzontali.
-Gli ostacoli sono illuminati con luci lampeggianti bianche ad alta intensita' se superiori a 150m, se inferiori, con luci rosse lampeggianti o fisse.
+Quando un ostacolo nell'aerea aeroportuale presenta una superficie essenzialmente ininterrotta, la cui proiezione su un piano verticale, supera i 4.5m (15ft), deve essere segnalato con **colorazione a scacchi o a bande verticali od orizzontali**.
+Gli ostacoli sono illuminati con **luci lampeggianti bianche ad alta intensita'** se superiori a 150m, se inferiori, con **luci rosse lampeggianti o fisse**.
 
-La segnaletica verticale che deve indicare un obbligo e' costituida da cartelli con scritte bianche su sfondo rosso.
+La **segnaletica verticale** che deve indicare un obbligo e' costituida da cartelli con scritte bianche su sfondo rosso.
 
-Per le marcature sulle piste e sulle vie di rullaggio, i colori raccomandati dall'ICAO sono bianco sulle piste e giallo sulle vie di rullaggio.
+Per le marcature sulle piste e sulle vie di rullaggio, i **colori raccomandati** dall'ICAO sono bianco sulle piste e giallo sulle vie di rullaggio.
 
-Il segnale luminoso rosso intermittente inviato dalla TWR all'a/m in volo significa che l'aeroporto e' insicuro e l'atterraggio non va effettuato.
+Il **segnale luminoso** rosso intermittente inviato dalla TWR all'a/m in volo significa che l'aeroporto e' insicuro e l'atterraggio non va effettuato.
 Una serie di lampeggiamenti a luce biance, impone di portarsi all'atterraggio, fermo restando che l'autorizzazione dovra' essere poi confermata con il segnale verde fisso.
 Il segnale luminoso rosso fisso indica di dare precedenza ad un altro aeromobile e continuare a circuitare.
 
