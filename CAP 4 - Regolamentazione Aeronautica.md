@@ -155,26 +155,29 @@ Il VDF e' un apparato cghe consente all'operatore di torre di individuare con pr
 
 ---
 
-Sulle testate delle piste pavimentate e' disegnato un numero a due cifre che indica l'orientamento magnetico della pista espresso in decine di gradi, eseguite le approssimazioni.
+Sulle testate delle piste pavimentate e' disegnato un **numero a due cifre** che indica l'orientamento magnetico della pista espresso in decine di gradi, eseguite le approssimazioni.
 
-Un pannello rosso con diagonali gialle posto nel quadrato segnali significa che l'atterraggio e' proibito.
+Un **pannello rosso con diagonali gialle** posto nel quadrato segnali significa che l'atterraggio e' proibito.
 
-Ua croce bianca posta all'inizio di una pista o di una via di rullaggio significa che non sono utilizzabili.
+Ua **croce bianca posta all'inizio di una pista** o di una via di rullaggio significa che non sono utilizzabili.
 
-Una croce gialla dipinta sulla superficie all'incrocio tra una via di rullaggio e delle taxiway, indica che le taxiway sono chiuse e quindi non idonee al movimento dei velivoli.
+Una **croce gialla dipinta sulla superficie all'incrocio** tra una via di rullaggio e delle taxiway, indica che le taxiway sono chiuse e quindi non idonee al movimento dei velivoli.
 
-Un pannello quadrato di colore giallo, con al centro una lettera C di colore nero, posto su un edificio aeroportuale, indica che sull'aeroporto e' istituito un ARO (Air Traffic services Reporting Office) e ne indica l'ubicazione.
+Un **pannello quadrato di colore giallo, con al centro una lettera C** di colore nero, posto su un edificio aeroportuale, indica che sull'aeroporto e' istituito un ARO (Air Traffic services Reporting Office) e ne indica l'ubicazione.
 
-Quando un ostacolo nell'aerea aeroportuale presenta una superficie essenzialmente ininterrotta, la cui proiezione su un piano verticale, supera i 4.5m (15ft), deve essere segnalato con colorazione a scacchi o a bande verticali od orizzontali.
+Quando un **ostacolo nell'aerea aeroportuale** presenta una superficie essenzialmente ininterrotta, la cui proiezione su un piano verticale, supera i 4.5m (15ft), deve essere segnalato con colorazione a scacchi o a bande verticali od orizzontali.
 Gli ostacoli sono illuminati con luci lampeggianti bianche ad alta intensita' se superiori a 150m, se inferiori, con luci rosse lampeggianti o fisse.
 
-La segnaletica verticale che deve indicare un obbligo e' costituida da cartelli con scritte bianche su sfondo rosso.
+La **segnaletica verticale** che deve indicare un obbligo e' costituida da cartelli con scritte bianche su sfondo rosso.
 
-Per le marcature sulle piste e sulle vie di rullaggio, i colori raccomandati dall'ICAO sono bianco sulle piste e giallo sulle vie di rullaggio.
+Per le marcature sulle piste e sulle vie di rullaggio, i **colori raccomandati dall'ICAO** sono bianco sulle piste e giallo sulle vie di rullaggio.
 
-Il segnale luminoso rosso intermittente inviato dalla TWR all'a/m in volo significa che l'aeroporto e' insicuro e l'atterraggio non va effettuato.
-Una serie di lampeggiamenti a luce biance, impone di portarsi all'atterraggio, fermo restando che l'autorizzazione dovra' essere poi confermata con il segnale verde fisso.
-Il segnale luminoso rosso fisso indica di dare precedenza ad un altro aeromobile e continuare a circuitare.
+Il **segnale luminoso rosso intermittente** inviato dalla TWR all'a/m in volo significa che l'aeroporto e' insicuro e l'atterraggio non va effettuato.
+Una serie di **lampeggiamenti a luce biance**, impone di portarsi all'atterraggio, fermo restando che l'autorizzazione dovra' essere poi confermata con il segnale **verde fisso**.
+Il segnale **luminoso rosso fisso** indica di dare precedenza ad un altro aeromobile e continuare a circuitare.
+Un **razzo rosso** lanciato dalla torre di controllo ad un aeromobile in volo significa che ogni precedente autorizzazione e' annullata e non si deve atterrare sino a nuove istruzioni.
+Una serie di **razzi rossi e verdi** lanciati da terra indicano che si sta entrando in una zona proibita o regolamentata.
+Un aeromobile con radio in avaria durante le ore diurne, per **comunicare di aver compreso i segnali luminosi** inviatigli dalla torre di controllo deve fare oscillare piu' volte le ali salvo che non si trovi in base o in finale. Di notte deve accendere e spegnere due volte le luci di atterraggio o di navigazione.
 
 ## SERVIZI ATS
 
@@ -222,6 +225,19 @@ Il termine **AFIS** identifica un servizio assicurato dell'ENAV, consistente in 
 ## INFORMAZIONI E ISTRUZIONI ATC
 
 ---
+
+Per operazioni di volo condotte entro spazi aerei di **classe C, la responsabilita' di provvedere alla separazione** tra un aeromobile VFR ed un aeromobile IFR e' dell'ente di controllo.
+
+Il **servizio di informazioni per evitare collisioni di traffico (Traffic Avoidance Advice - TFCAA)** viene fornito a richiesta nelle sole zone C e D.
+
+Un **aeromobile VFR** che ha chiesto all'ente ATC istruzioni atte ad evitare rischi di collisione, una volta informato che c'e' altro traffico nelle vicinanze deve considerare tali istruzioni come suggerimenti.
+Un volo VFR proveniente da spazi aerei di classe E e G diretto verso uno di classe C o D, deve **richiedere l'autorizzazione ATC** prima di entrare. Tali autorizzazioni vanno richieste almeno 10 minuti prima dello stimato sui confini. L'**ottenimento dell'autorizzazione ATC** deve avvenire prima dell'ingresso negli spazi C e D.
+
+Le **istruzioni di prua** date dall'ATC sono in gradi magnetici e non devono essere corrette per il vento (Es. "Assuma prua 090").
+Per l'identificazione di un aereo, il controllore radar puo' richiedere di **inserire un dato codice nel trasponder**.
+Quando il servizio ATC comunica di avere "**contatto Radar**" significa che l'aereo e' visto ed identificato sullo schermo radar e sino a futuro avviso sara' fornito un servizio.
+
+La separazione tra traffici controllati in vicinanza di un aeroporto puo' essere ridotta se il comandante dell'aereo che segue ha il precedente in vista ed e' in grado di mantenere la separazione.
 
 ## COMUNICAZIONI RADIO, AVARIE
 
