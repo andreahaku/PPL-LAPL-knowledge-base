@@ -87,6 +87,14 @@ I limiti di visibilita' e di ceiling previsti per il volo **VFR Speciale** sono 
 
 ---
 
+Per **impiegare un aeroplano con passeggeri a bordo** il pilota deve avere effettuato 3 decolli e 3 atterraggi negli ultimi 90 giorni con un veivolo della stessa classe/tipo.
+Un aereo con **passeggeri a bordo puo' essere rifornito di carburante** purche' l'operazione sia fatta con la presenza di personale qualificato per ordinare l'evequazione e sia mantenuta la comunicazione con i rifornitori.
+Il **briefing dei passeggeri** deve essere effettuato prima del decollo.
+
+Il **faro anticollisione **deve essere sempre tenuto acceso quando i motori sono in moto.
+
+In **navigazione sul mare**, la dotazione di giubbotti salvagente a bordo, e' obbligatoria quando la distanza dalla costa e' superiore alla distanza di planata senza potenza e comunque sempre a distanza superiore a 50NM.
+
 ## PRECEDENZE E SEPARAZIONI
 
 ---
@@ -242,6 +250,38 @@ La separazione tra traffici controllati in vicinanza di un aeroporto puo' essere
 ## COMUNICAZIONI RADIO, AVARIE
 
 ---
+
+I **voli VFR devono effettuare i riporti** di operazioni normali ad intervalli di 30 minuti.
+
+L'**ordine di priorita' nella trasmissione** dei messaggi del servizio mobile aeronautico e':
+
+- messaggi di pericolo
+- di urgenza
+- radiogonometri
+- di sicurezza del volo
+- meteorologici
+- di regolarita' del volo
+
+Un **riporto di posizione** deve contenere le seguenti informazioni nel seguente ordine:
+
+- identificazione dell'aereo
+- posizione
+- orario
+- livello o altitudine
+- prossima posizione e relativo stimato
+- posizione successiva
+
+Quando un aeromobile e' minacciato da un pericolo grave e/o imminente ed ha necessita' di assistenza immediata, il segnale "**MAY DAY**" dovra' precedere la trasmissione.
+
+Ogni qual volta occorre segnalare una situazione riguardante la sicurezza dell'aeromobile o di un altro veicolo, di persone a bordo od avvisare, senza richiesta di assistenza immediata, la trasmissione dovra' essere preceduta dal segnale "**PAN PAN**". Quindi nelle situazioni in cui il pilota debba segnalare una situazione anomala, ma che non comporti immediato pericolo, per la quale sia richiesta un'assistenza speciale.
+
+Le **fasi relative allo stato di emergenza** sono:
+
+- fase di incertezza
+- fase di allarme
+- fase di pericolo
+
+In caso di **radio avaria**, in condizioni VMC, un aeromobile dovra' dirottare verso l'aeroporto piu' vicino informando tempestivamente l'ente ATS ad atterraggio effettuato. In caso di disponibilita' dell'apparato transponder, dovra' essere attivato il codice 7600. Nel caso in cui si verifichi un peggioramento delle condizioni meteo tale da far ritenere incerto il proseguimento del volo VMC, mantenendo VMC, dirottare verso l'aeroporto idoneo piu' vicino, informando tempestivamente l'ente ATS ad atterraggio effettuato. Se disponibile attivare il transponder sul codice 7600.
 
 ## PIANO DI VOLO
 
