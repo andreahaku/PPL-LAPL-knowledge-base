@@ -282,10 +282,36 @@ Le **fasi relative allo stato di emergenza** sono:
 - fase di pericolo
 
 In caso di **radio avaria**, in condizioni VMC, un aeromobile dovra' dirottare verso l'aeroporto piu' vicino informando tempestivamente l'ente ATS ad atterraggio effettuato. In caso di disponibilita' dell'apparato transponder, dovra' essere attivato il codice 7600. Nel caso in cui si verifichi un peggioramento delle condizioni meteo tale da far ritenere incerto il proseguimento del volo VMC, mantenendo VMC, dirottare verso l'aeroporto idoneo piu' vicino, informando tempestivamente l'ente ATS ad atterraggio effettuato. Se disponibile attivare il transponder sul codice 7600.
+Durante le ore diurne, un aeromobile in radio aeromobile, per ottenere istruzioni dalla torre di controllo dovra' portarsi in una posizione ben visibile al Controllo di Torre facendo oscillare piu' volte le ali. Nel caso in cui sia necessario un atterraggio immediato, ma nessun altra assistenza, dovra' accendere e spegnere rieptutamente il faro di atterraggio.
+
+Se un pilota ritiene che la **quantita' rimanente di carburante sia critica**, per allertare l'ATC della necessita' di avere priorita' di atterraggio, dovra' chiamare con: "Mayday" con la specificazione "carburante" o "fuel".
 
 ## PIANO DI VOLO
 
 ---
+
+Il **piano di volo in vigore** e' il piano registrato con inclusi emendamenti ed autorizzazini ATC.
+L'orario di parte del Piano di volo registrato prima del volo e' l'EOBT (l'orario in cui l'aereo inizia a muoversi).
+
+Nel piano di volo si indica la **velocita**' vera TAS per la prima o l'intera parte in crociera: per esprimere la velocita' in nodi il prefisso e' "N", "K" per i km/h.
+
+In Italia sono **ammessi i seguenti piani di volo**: VFR (V), IFR (I), misto VFR-IFR (Z partenza VFR poi IFR, Y partenza IFR con cancellazione IFR e continuazione in VFR).
+
+Presentato il **piano di volo VFR**, il volo non deve obbligatoriamente seguire quanto comunicato ad ATS ma puo' essere cambiato in volo purche' vengano tempestivamente informati gli Enti ATS.
+
+Presso l'**ARO** e' possibile reperire le informazioni aeronautiche necessarie per la preparazione e compilazione del piano di volo.
+
+Un **volo che attraversa il confine FIR** (ad esempio di Milano e Roma) non e' obbligatorio un piano di volo.
+
+Il **piano di volo abbreviato** e' ammesso per voli all'interno di un CTR o ATZ controllata, o che decollano da un aeroporto entro una CTR/ATZ per uscirne, o entrano in una CTR/ATZ per atterrare, oppure attraversano una o piu' porzioni di spazio aereo controllato contigue. Non puo' essere presentato per voli fuori del CTR e zone adiacenti.
+
+Un piano di volo puo' essere **presentato a mezzo radio** sulla frequenza aria/terra/aria dell'appropiato ente ATS a condizione che risulti impossibile od estremamente difficoltoso per il pilota farlo pervenire all'ARO di persona o a mezzo telescrivente o fax o per telefono o via web.
+
+Un piano di volo VFR deve essere presentato **30 minuti prima dell'EOBT**. Nel caso l'**orario stimato di sorvolo** del successivo punto di riporto sia ritenuto errato rispetto a quello precedente comunicato all'ente ATC, una revisione dovra' essere criticata se in eccesso di 3 minuti dall'ultimo orario notificato. Nel caso in cui la **velocita' TAS risulti variata** o si preveda che variera', rispetto a quella indicata nel piano di volo, dovra' essere comunicata all'ente ATS ogni qual volta tale variazione risulti del 5%.
+
+Lo **EET (Estimated elapsed time)** nel campo 16 del piano di volo per un volo VFR e' il tempo stimato intercorrente dalla partenza sino alla verticale dell'aeroporto di destinazione.
+
+E' obbligatorio per un pilota **chiudere il piano di volo** per non provocare allarme ingiustificato del Servizio di Ricerca e Soccorso.
 
 ## AIP
 
@@ -402,3 +428,16 @@ Per ogni **volo solista** di un allievo pilota e' necessaria l'autorizzazione sc
 ## INCIDENTI ED INCONVENIENTI
 
 ---
+
+Secondo l'annesso 2 ICAO la **responsabilita' per la sicura condotta di un aereo** e' del PIC (Pilot in command).
+
+L'ICAO riconosce 2 **categorie di inconvenienti ("incident")**: incidente grave e incidente minore.
+
+Se una** persona e' seriamente ferita** da un componente caduto da un aereo in volo secondo l'ICAO questo evento si qualifica come un incidente aeronautico ("accident").
+
+I **malfunzionamenti** riportati sul QTB rientrano nella categoria incidenti.
+
+Il **responsabile della notifica di un incidente** e' il pilota o l'operatore.
+La **responsabilita' per l'investigazione di un incidente** e' dello stato dove e' avvenuto con la partecipazione dello stato di registrazione dell'aereo ed altri.
+
+Per segnalare un **mancato incidente**, il modulo necessario e' reperibile presso l'ENAC o ANSV.
